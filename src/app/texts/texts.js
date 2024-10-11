@@ -1,10 +1,10 @@
-const title = "Cositas Lindas";
-const slogan = "Accesorios que cuentan tu historia.";
-const email = "cositaslindas2507@gmail.com";
+const title = "Celestial";
+const slogan = "Dulzura celestial, sabor inolvidable";
+const email = "";
 const mensajeWhatsApp = encodeURIComponent(
     `¡Hola! Estoy interesado en los accesorios de ${title} y me gustaría obtener más información. ¡Gracias!`
 );
-const numeroWhatsApp = "3028279496";
+const numeroWhatsApp = "";
 
 const textos = {
     index: {
@@ -14,8 +14,9 @@ const textos = {
         title: `${title}`,
     },
     about: {
-        description1: "La esencia de Cositas Lindas se basa en accesorios que no solo complemente tu outfit, si no que también te haga sentir feliz y radiante en cada ocasión, pensando en brindarte piezas duraderas y un acabado increíble a precios accequibles. Nuestro compromiso es hacer que cada cliente se sienta único y especial al lucir nuestras creaciones."
-    },
+        description1: "En Celestial, nos especializamos en la creación de postres irresistibles, llenos de sabor y creatividad. Dirigido por Julieth Tatiana Quinchia Acosta, ofrecemos una amplia variedad de cheesecakes con deliciosos toppings como Nutella, mora, durazno y queso, que hacen de cada bocado una experiencia única y celestial.\n" +
+            "\n" +
+            "Nos dedicamos a brindar a nuestros clientes momentos dulces y especiales con postres hechos con los mejores ingredientes y un toque personalizado en cada receta." },
     contact: {
         whatsappLink: `https://wa.me/${numeroWhatsApp}?text=${mensajeWhatsApp}`,
         email: email,
@@ -28,7 +29,7 @@ const textos = {
         address: "",
         phone: numeroWhatsApp,
         email: email,
-        facebook: "https://www.facebook.com/profile.php?id=61566082556168&mibextid=ZbWKwL",
+        facebook: "https://web.facebook.com/profile.php?id=61567023602001&is_tour_dismissed",
         instagram: "https://www.instagram.com/",
         whatsappLink: `https://wa.me/${numeroWhatsApp}?text=${mensajeWhatsApp}`,
     },
